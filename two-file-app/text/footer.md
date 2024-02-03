@@ -1,0 +1,1 @@
+*This app is maintained by [Hope Hahn](https://h-hahn.github.io/) and is updated as needed for teaching purposes. Please report any issues [here](https://github.com/h-hahn/shiny-workshop/issues). Source code can be found on [GitHub](https://github.com/h-hahn/shiny-workshop).*
